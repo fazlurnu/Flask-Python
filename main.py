@@ -7,7 +7,7 @@ def home():
     return "Hello, World!"
     
 @app.route("/fazlur")
-def salvador():
+def fazlur():
     return "Hello, Fazlur!"
     
 if __name__ == "__main__":
